@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🌌 Ahoj, já jsem [Jakub Kluz]! 👋
 
-<!--
-**KluzJakub/KluzJakub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 IT Student | 🌱 Milovník přírody | 🏋️‍♂️ Zdravý životní styl | 🚀 Nadšenec do vesmíru
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O mně 🌟
+- 🎓 Studuji informační technologie a miluji objevování nových technologií.
+- 🌌 Fascinují mě hvězdy, galaxie a tajemství vesmíru.
+- 🌿 Ve volném čase si užívám přírodu a dbám na zdravý životní styl.
+- 🤖 Experimentuji s programováním a otevřenými zdrojovými kódy.
+- 🎯 Moje cíle: neustále se učit nové věci, rozvíjet své dovednosti a přispět k lepšímu světu.
+
+---
+
+## Co umím 🛠️
+- **Jazyky a technologie:**
+  - Python | C# | HTML/CSS | JavaScript
+  - Základy databází (MySQL, SQLite)
+  - Git a verzování
+- **Oblasti zájmu:**
+  - Vývoj softwaru
+  - Umělá inteligence
+
+---
+
+## Zůstaňme v kontaktu 🤝
+- 📫 Email: [it.kluz@icloud.com](mailto:it.kluz@icloud.com)
+---
+
+*"Dívej se na hvězdy a ne na své nohy."* – Stephen Hawking 🚀
